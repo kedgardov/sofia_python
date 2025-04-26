@@ -1,0 +1,5 @@
+/nltk_data/
+/__pycache__/
+/venv/
+voting_classifier_ensemble.joblib
+/REPOSITORIO/
